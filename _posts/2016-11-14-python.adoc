@@ -1,0 +1,13 @@
+# python 学习记录
+
+
+```
+# -*- coding: encoding -*-
+默认情况下，Python 源文件是 UTF-8 编码。在此编码下，全世界大多数语言的字符可以同时用在字符串、标识符和注释中 — 尽管 Python 标准库仅使用 ASCII 字符做为标识符，这只是任何可移植代码应该遵守的约定。如果要正确的显示所有的字符，你的编辑器必须能识别出文件是 UTF-8 编码，并且它使用的字体能支持文件中所有的字符
+```
+```
+# this is the first comment
+spam = 1  # and this is the second comment
+          # ... and now a third!
+text = "# This is not a comment because it's inside quotes."
+```
