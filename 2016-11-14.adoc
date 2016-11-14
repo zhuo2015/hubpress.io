@@ -12,7 +12,7 @@
 
     <link rel="shortcut icon" href="https://zhuo2015.github.io/favicon.ico">
 
-    <link rel="stylesheet" type="text/css" href="//zhuo2015.github.io/themes/casper/assets/css/screen.css?v=1479090412514" />
+    <link rel="stylesheet" type="text/css" href="//zhuo2015.github.io/themes/casper/assets/css/screen.css?v=1479090792314" />
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
 
     <link rel="canonical" href="https://zhuo2015.github.io/2016-11-14.adoc" />
@@ -20,11 +20,11 @@
     
     <meta property="og:type" content="website" />
     <meta property="og:title" content="如何理解使用编程" />
-    <meta property="og:description" content="程序员思维 1.自然语言， 计算机先阶段还无法使用自然语言编程，自然语言容易有歧义 2. 编程的总览 与使用的编程语言无关，某一种编程语言只是一种工具，并不能代表编程。学习编程，首先要理解编程的概念，而不是直接到语言相关的学习，对编程的逻辑有认识，才能更好的学习编程语言。 输入 处理 输出 1.1. 输入： 1.2  处理： 1.3  输出： Pycharm 快捷键 Ctrl + D  复制选定的区域或行 Ctrl + Y    删除选定的行 Tab / Shift + Tab  缩进、不缩进当前行" />
+    <meta property="og:description" content="程序员思维 1.自然语言， 计算机先阶段还无法使用自然语言编程，自然语言容易有歧义 2. 编程的总览 与使用的编程语言无关，某一种编程语言只是一种工具，并不能代表编程。学习编程，首先要理解编程的概念，而不是直接到语言相关的学习，对编程的逻辑有认识，才能更好的学习编程语言。 程序的逻辑架构多数包好3个部分：输入； 处理； 输出 1.1. 输入：    输入需要计算机为我们处理的数据，在python中可以是input语句，open文件 1.2  处理：    数据的处理过程，这部分是学习编程的核心 1.3  输出：    最早我们使用print语句输出处理后的数据结果    之后可以利用stdout    然后可以图形化输出 Pycharm 快捷键 Ctrl + D  复制选定的区域或行 Ct" />
     <meta property="og:url" content="https://zhuo2015.github.io/2016-11-14.adoc" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="如何理解使用编程" />
-    <meta name="twitter:description" content="程序员思维 1.自然语言， 计算机先阶段还无法使用自然语言编程，自然语言容易有歧义 2. 编程的总览 与使用的编程语言无关，某一种编程语言只是一种工具，并不能代表编程。学习编程，首先要理解编程的概念，而不是直接到语言相关的学习，对编程的逻辑有认识，才能更好的学习编程语言。 输入 处理 输出 1.1. 输入： 1.2  处理： 1.3  输出： Pycharm 快捷键 Ctrl + D  复制选定的区域或行 Ctrl + Y    删除选定的行 Tab / Shift + Tab  缩进、不缩进当前行" />
+    <meta name="twitter:description" content="程序员思维 1.自然语言， 计算机先阶段还无法使用自然语言编程，自然语言容易有歧义 2. 编程的总览 与使用的编程语言无关，某一种编程语言只是一种工具，并不能代表编程。学习编程，首先要理解编程的概念，而不是直接到语言相关的学习，对编程的逻辑有认识，才能更好的学习编程语言。 程序的逻辑架构多数包好3个部分：输入； 处理； 输出 1.1. 输入：    输入需要计算机为我们处理的数据，在python中可以是input语句，open文件 1.2  处理：    数据的处理过程，这部分是学习编程的核心 1.3  输出：    最早我们使用print语句输出处理后的数据结果    之后可以利用stdout    然后可以图形化输出 Pycharm 快捷键 Ctrl + D  复制选定的区域或行 Ct" />
     <meta name="twitter:url" content="https://zhuo2015.github.io/2016-11-14.adoc" />
     
     <script type="application/ld+json">
@@ -75,18 +75,29 @@ null
 <div class="olist arabic">
 <ol class="arabic">
 <li>
-<p>输入 处理 输出</p>
+<p>程序的逻辑架构多数包好3个部分：输入； 处理； 输出</p>
+<div class="literalblock">
+<div class="content">
+<pre>1.1. 输入：
+   输入需要计算机为我们处理的数据，在python中可以是input语句，open文件</pre>
+</div>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>1.2  处理：
+   数据的处理过程，这部分是学习编程的核心</pre>
+</div>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>1.3  输出：
+   最早我们使用print语句输出处理后的数据结果
+   之后可以利用stdout
+   然后可以图形化输出</pre>
+</div>
+</div>
 </li>
 </ol>
-</div>
-<div class="paragraph">
-<p>1.1. 输入：</p>
-</div>
-<div class="paragraph">
-<p>1.2  处理：</p>
-</div>
-<div class="paragraph">
-<p>1.3  输出：</p>
 </div>
 </div>
 <div class="sect2">
@@ -168,8 +179,8 @@ Tab / Shift + Tab  缩进、不缩进当前行</code></pre>
         hljs.initHighlightingOnLoad();
       </script>
 
-    <script type="text/javascript" src="//zhuo2015.github.io/themes/casper/assets/js/jquery.fitvids.js?v=1479090412514"></script>
-    <script type="text/javascript" src="//zhuo2015.github.io/themes/casper/assets/js/index.js?v=1479090412514"></script>
+    <script type="text/javascript" src="//zhuo2015.github.io/themes/casper/assets/js/jquery.fitvids.js?v=1479090792314"></script>
+    <script type="text/javascript" src="//zhuo2015.github.io/themes/casper/assets/js/index.js?v=1479090792314"></script>
 
 </body>
 </html>
