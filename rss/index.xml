@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://zhuo2015.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 14 Nov 2016 02:33:12 GMT</lastBuildDate><atom:link href="https://zhuo2015.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[如何理解使用编程]]></title><description><![CDATA[<div class="sect2">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://zhuo2015.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 14 Nov 2016 02:34:29 GMT</lastBuildDate><atom:link href="https://zhuo2015.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[如何理解使用编程]]></title><description><![CDATA[<div class="sect2">
 <h3 id="__">程序员思维</h3>
-<div class="paragraph">
-<p>1.自然语言， 计算机先阶段还无法使用自然语言编程，自然语言容易有歧义
-2.</p>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>自然语言， 计算机先阶段还无法使用自然语言编程，自然语言容易有歧义</p>
+</li>
+<li>
+<p>把问题分解成若干个小问题，抽象成逻辑结构，最终解决问题</p>
+</li>
+</ol>
 </div>
 </div>
 <div class="sect2">
