@@ -1,0 +1,16 @@
+# 2016.11.13
+
+1. 通过matplotlib pyplot，简单的实现了抛硬币的散点图
+2. 过了一遍 南京大学的 python 视频课程
+
+#### 问题：
+ 1. python 3.5 无法运行pyplot
+ 2. 汉诺塔递归还是无法理解，
+ 3. if, elif, else循环还需要再练习
+ 4. 语法，格式化字符串，join使用
+
+#### ToDo：
+ 1. 计算性思维
+ 2. Markdown & Github
+ 3. 开始阅读 Dive.Into.Python-zh-cn-5.4-with-code
+ 4. Python bilibili 程序化设计
