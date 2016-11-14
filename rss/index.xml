@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://zhuo2015.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 14 Nov 2016 02:38:42 GMT</lastBuildDate><atom:link href="https://zhuo2015.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[如何理解使用编程]]></title><description><![CDATA[<div class="sect2">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://zhuo2015.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 14 Nov 2016 02:45:05 GMT</lastBuildDate><atom:link href="https://zhuo2015.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[如何理解使用编程]]></title><description><![CDATA[<div class="sect2">
 <h3 id="__">程序员思维</h3>
 <div class="olist arabic">
 <ol class="arabic">
@@ -42,11 +42,6 @@
 </div>
 </li>
 </ol>
-</div>
-<div class="listingblock">
-<div class="content">
-<pre class="highlight"><code></code></pre>
-</div>
 </div>
 </div>]]></description><link>https://zhuo2015.github.io2016-11-14.adoc</link><guid isPermaLink="true">https://zhuo2015.github.io2016-11-14.adoc</guid><pubDate>Mon, 14 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[python 学习记录]]></title><description><![CDATA[<div class="listingblock">
 <div class="content">
