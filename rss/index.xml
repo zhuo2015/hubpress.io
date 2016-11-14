@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://zhuo2015.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 14 Nov 2016 02:34:29 GMT</lastBuildDate><atom:link href="https://zhuo2015.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[如何理解使用编程]]></title><description><![CDATA[<div class="sect2">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://zhuo2015.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 14 Nov 2016 02:38:42 GMT</lastBuildDate><atom:link href="https://zhuo2015.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[如何理解使用编程]]></title><description><![CDATA[<div class="sect2">
 <h3 id="__">程序员思维</h3>
 <div class="olist arabic">
 <ol class="arabic">
@@ -43,14 +43,9 @@
 </li>
 </ol>
 </div>
-</div>
-<div class="sect2">
-<h3 id="_pycharm">Pycharm 快捷键</h3>
 <div class="listingblock">
 <div class="content">
-<pre class="highlight"><code>Ctrl + D  复制选定的区域或行
-Ctrl + Y    删除选定的行
-Tab / Shift + Tab  缩进、不缩进当前行</code></pre>
+<pre class="highlight"><code></code></pre>
 </div>
 </div>
 </div>]]></description><link>https://zhuo2015.github.io2016-11-14.adoc</link><guid isPermaLink="true">https://zhuo2015.github.io2016-11-14.adoc</guid><pubDate>Mon, 14 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[python 学习记录]]></title><description><![CDATA[<div class="listingblock">
@@ -66,7 +61,24 @@ spam = 1  # and this is the second comment
           # ... and now a third!
 text = "# This is not a comment because it's inside quotes."</code></pre>
 </div>
-</div>]]></description><link>https://zhuo2015.github.io/2016/11/14/python.html</link><guid isPermaLink="true">https://zhuo2015.github.io/2016/11/14/python.html</guid><pubDate>Mon, 14 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Markdown语法]]></title><description><![CDATA[<div class="sect2">
+</div>]]></description><link>https://zhuo2015.github.io/2016/11/14/python.html</link><guid isPermaLink="true">https://zhuo2015.github.io/2016/11/14/python.html</guid><pubDate>Mon, 14 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Pycharm 快捷键]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>如果使用Pycharm IDE开始编程，我把Pycharm的快捷键按照编程学习的进度，分为了几个阶段，逐步使用，不需要刻意的记忆。</p>
+</div>
+</div>
+</div>
+<div class="sect4">
+<h5 id="__">第一阶段常用的快捷键</h5>
+<div class="listingblock">
+<div class="content">
+<pre class="highlight"><code>Ctrl + /  注释/去掉注释
+Ctrl + D  复制选定的区域或行
+Ctrl + Y    删除选定的行
+Tab / Shift + Tab  缩进/不缩进当前行</code></pre>
+</div>
+</div>
+</div>]]></description><link>https://zhuo2015.github.io/2016/11/14/Pycharm.html</link><guid isPermaLink="true">https://zhuo2015.github.io/2016/11/14/Pycharm.html</guid><pubDate>Mon, 14 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Markdown语法]]></title><description><![CDATA[<div class="sect2">
 <h3 id="__">标题</h3>
 <div class="listingblock">
 <div class="content">
