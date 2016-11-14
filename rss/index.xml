@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://zhuo2015.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 14 Nov 2016 02:16:33 GMT</lastBuildDate><atom:link href="https://zhuo2015.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[python 学习记录]]></title><description><![CDATA[<div class="listingblock">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://zhuo2015.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 14 Nov 2016 02:20:13 GMT</lastBuildDate><atom:link href="https://zhuo2015.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[python 学习记录]]></title><description><![CDATA[<div class="listingblock">
 <div class="content">
 <pre class="highlight"><code># -*- coding: encoding -*-
 默认情况下，Python 源文件是 UTF-8 编码。在此编码下，全世界大多数语言的字符可以同时用在字符串、标识符和注释中 — 尽管 Python 标准库仅使用 ASCII 字符做为标识符，这只是任何可移植代码应该遵守的约定。如果要正确的显示所有的字符，你的编辑器必须能识别出文件是 UTF-8 编码，并且它使用的字体能支持文件中所有的字符</code></pre>
@@ -11,4 +11,33 @@ spam = 1  # and this is the second comment
           # ... and now a third!
 text = "# This is not a comment because it's inside quotes."</code></pre>
 </div>
-</div>]]></description><link>https://zhuo2015.github.io/2016/11/14/python.html</link><guid isPermaLink="true">https://zhuo2015.github.io/2016/11/14/python.html</guid><pubDate>Mon, 14 Nov 2016 00:00:00 GMT</pubDate></item></channel></rss>
+</div>]]></description><link>https://zhuo2015.github.io/2016/11/14/python.html</link><guid isPermaLink="true">https://zhuo2015.github.io/2016/11/14/python.html</guid><pubDate>Mon, 14 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Markdown语法]]></title><description><![CDATA[<div class="sect2">
+<h3 id="__">标题</h3>
+<div class="listingblock">
+<div class="content">
+<pre class="highlight"><code># 一级标题
+## 二级标题
+### 三级标题
+#### 四级标题
+##### 五级标题
+###### 六级标题</code></pre>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="___2">文本</h3>
+<div class="listingblock">
+<div class="content">
+<pre class="highlight"><code>- 文本1
+- 文本2
+- 文本3</code></pre>
+</div>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlight"><code>1.
+2.
+3.</code></pre>
+</div>
+</div>
+</div>]]></description><link>https://zhuo2015.github.io/2016/11/14/Markdown.html</link><guid isPermaLink="true">https://zhuo2015.github.io/2016/11/14/Markdown.html</guid><pubDate>Mon, 14 Nov 2016 00:00:00 GMT</pubDate></item></channel></rss>
