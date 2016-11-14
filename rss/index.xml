@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://zhuo2015.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 14 Nov 2016 02:26:52 GMT</lastBuildDate><atom:link href="https://zhuo2015.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[如何理解使用编程]]></title><description><![CDATA[<div class="sect2">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://zhuo2015.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 14 Nov 2016 02:33:12 GMT</lastBuildDate><atom:link href="https://zhuo2015.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[如何理解使用编程]]></title><description><![CDATA[<div class="sect2">
 <h3 id="__">程序员思维</h3>
 <div class="paragraph">
 <p>1.自然语言， 计算机先阶段还无法使用自然语言编程，自然语言容易有歧义
@@ -13,18 +13,29 @@
 <div class="olist arabic">
 <ol class="arabic">
 <li>
-<p>输入 处理 输出</p>
+<p>程序的逻辑架构多数包好3个部分：输入； 处理； 输出</p>
+<div class="literalblock">
+<div class="content">
+<pre>1.1. 输入：
+   输入需要计算机为我们处理的数据，在python中可以是input语句，open文件</pre>
+</div>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>1.2  处理：
+   数据的处理过程，这部分是学习编程的核心</pre>
+</div>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>1.3  输出：
+   最早我们使用print语句输出处理后的数据结果
+   之后可以利用stdout
+   然后可以图形化输出</pre>
+</div>
+</div>
 </li>
 </ol>
-</div>
-<div class="paragraph">
-<p>1.1. 输入：</p>
-</div>
-<div class="paragraph">
-<p>1.2  处理：</p>
-</div>
-<div class="paragraph">
-<p>1.3  输出：</p>
 </div>
 </div>
 <div class="sect2">
